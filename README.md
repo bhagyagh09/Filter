@@ -1,2 +1,2 @@
 # Filter
-Simple list filter
+Javascript, HTML,CSS
